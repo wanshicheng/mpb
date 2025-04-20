@@ -1,6 +1,3 @@
-//go:build js && wasm
-// +build js,wasm
-
 package cwriter
 
 // WebAssembly环境下的Writer实现
